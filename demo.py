@@ -8,5 +8,5 @@ with col1:
   st.write("Persian cats are cute")
 with col2:
   st.subheader("White cat")
-st.image("./2.jpg",caption="White Cat",width=300,use_column_width=True)
-st.write("White cats are cute")
+  st.image("./2.jpg",caption="White Cat",width=300,use_column_width=True)
+  st.write("White cats are cute")
