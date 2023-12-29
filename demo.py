@@ -2,7 +2,7 @@ import streamlit as st
 st.set_page_config(page_title='cats')
 st.markdown("## Types of Cats")
 st.write("- Persian cat")
-st.image("./1.jpg")
+st.image("./1.jpg height=50,width=100")
 st.write("- White cat")
 st.image("./2.jpg")
 st.write("- Persian cat")
